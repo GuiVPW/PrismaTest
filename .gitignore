@@ -1,0 +1,7 @@
+node_modules
+.pretierrc
+.pretierignore
+prisma/migrations
+prisma/Studio
+prisma/.env
+prisma/dev.db
